@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/rdean/CLionProjects/EvolutionSimulation/main.cpp
+iostream
+-
+limits.h
+-
+algorithm
+-
+vector
+-
+map
+-
+
